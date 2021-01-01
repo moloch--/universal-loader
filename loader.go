@@ -13,7 +13,7 @@ import (
 
 	"github.com/Binject/debug/pe"
 
-	bananaphone "github.com/c-sto/BananaPhone/pkg/BananaPhone"
+	bananaphone "github.com/C-Sto/BananaPhone/pkg/BananaPhone"
 )
 
 // Library - container struct for the DLL to load
